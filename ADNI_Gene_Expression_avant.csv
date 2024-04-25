@@ -1,9 +1,0 @@
-Variable,Description,Value
-Phase,Phase of ADNI at which visit occurred,n/a
-Visit,Visit at which PaxGene sample was collected,bl/v03 = baseline; m03 = 3-month visit; m12 = 12-month visit; m36 = 36-month visit; m48 = 48-month visit; m60 = 60-month visit; v02 = MRI visit; v06 = first ADNI-2 visit for ADNI-1 continuing patients; v11 = 12-month follow-up ADNI-2 visit
-SubjectID,"Subject ID including site; first three numbers indicate site (ZZZ), last four numbers indicate unique subject ID (XXXX, the RID)",ZZZ_S_XXXX
-260/280,260/280 ratio,n/a
-260/230,260/230 ratio,n/a
-RIN,RNA Integrity Number (RIN),n/a
-Affy Plate,Plate number,n/a
-YearofCollection,Year at which PaxGene sample was collected,n/a
